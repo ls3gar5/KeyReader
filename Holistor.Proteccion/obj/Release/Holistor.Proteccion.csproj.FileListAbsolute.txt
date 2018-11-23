@@ -1,0 +1,38 @@
+E:\DesarrolloSoft\BurnCD\GrabadorNetEstudios\Holistor.Proteccion\bin\Release\hkey-w32.dll
+E:\DesarrolloSoft\BurnCD\GrabadorNetEstudios\Holistor.Proteccion\bin\Release\Holistor.Proteccion.dll
+E:\DesarrolloSoft\BurnCD\GrabadorNetEstudios\Holistor.Proteccion\bin\Release\Holistor.Proteccion.pdb
+E:\DesarrolloSoft\BurnCD\GrabadorNetEstudios\Holistor.Proteccion\obj\Release\Holistor.Proteccion.csproj.CoreCompileInputs.cache
+E:\DesarrolloSoft\BurnCD\GrabadorNetEstudios\Holistor.Proteccion\obj\Release\Holistor.Proteccion.dll
+E:\DesarrolloSoft\BurnCD\GrabadorNetEstudios\Holistor.Proteccion\obj\Release\Holistor.Proteccion.pdb
+E:\DesarrolloSoft\BurnCD\GrabadorNetEstudios\Holistor.Proteccion\obj\Release\Holistor.Proteccion.csprojAssemblyReference.cache
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\Holistor.Proteccion\bin\Release\hkey-w32.dll
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\Holistor.Proteccion\bin\Release\Holistor.Proteccion.dll
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\Holistor.Proteccion\bin\Release\Holistor.Proteccion.pdb
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\Holistor.Proteccion\obj\Release\Holistor.Proteccion.csproj.CoreCompileInputs.cache
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\Holistor.Proteccion\obj\Release\Holistor.Proteccion.dll
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\Holistor.Proteccion\obj\Release\Holistor.Proteccion.pdb
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\Holistor.Proteccion\obj\Release\Holistor.Proteccion.csprojAssemblyReference.cache
+E:\DesarrolloSoft\_CD\Holistor. KeyReader VS2017\Holistor.Proteccion\bin\Release\hkey-w32.dll
+E:\DesarrolloSoft\_CD\Holistor. KeyReader VS2017\Holistor.Proteccion\bin\Release\Holistor.Proteccion.dll
+E:\DesarrolloSoft\_CD\Holistor. KeyReader VS2017\Holistor.Proteccion\bin\Release\Holistor.Proteccion.pdb
+E:\DesarrolloSoft\_CD\Holistor. KeyReader VS2017\Holistor.Proteccion\obj\Release\Holistor.Proteccion.csproj.CoreCompileInputs.cache
+E:\DesarrolloSoft\_CD\Holistor. KeyReader VS2017\Holistor.Proteccion\obj\Release\Holistor.Proteccion.dll
+E:\DesarrolloSoft\_CD\Holistor. KeyReader VS2017\Holistor.Proteccion\obj\Release\Holistor.Proteccion.pdb
+D:\Instalador\Holistor. KeyReader VS2017\Holistor.Proteccion\bin\Release\hkey-w32.dll
+D:\Instalador\Holistor. KeyReader VS2017\Holistor.Proteccion\bin\Release\Holistor.Proteccion.dll
+D:\Instalador\Holistor. KeyReader VS2017\Holistor.Proteccion\bin\Release\Holistor.Proteccion.pdb
+D:\Instalador\Holistor. KeyReader VS2017\Holistor.Proteccion\obj\Release\Holistor.Proteccion.csproj.CoreCompileInputs.cache
+D:\Instalador\Holistor. KeyReader VS2017\Holistor.Proteccion\obj\Release\Holistor.Proteccion.dll
+D:\Instalador\Holistor. KeyReader VS2017\Holistor.Proteccion\obj\Release\Holistor.Proteccion.pdb
+C:\Users\Leonardo.HOLISTOR\Projects\KEY_DEV\Holistor. KeyReader VS2017\Holistor.Proteccion\bin\Release\hkey-w32.dll
+C:\Users\Leonardo.HOLISTOR\Projects\KEY_DEV\Holistor. KeyReader VS2017\Holistor.Proteccion\bin\Release\Holistor.Proteccion.dll
+C:\Users\Leonardo.HOLISTOR\Projects\KEY_DEV\Holistor. KeyReader VS2017\Holistor.Proteccion\bin\Release\Holistor.Proteccion.pdb
+C:\Users\Leonardo.HOLISTOR\Projects\KEY_DEV\Holistor. KeyReader VS2017\Holistor.Proteccion\obj\Release\Holistor.Proteccion.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo.HOLISTOR\Projects\KEY_DEV\Holistor. KeyReader VS2017\Holistor.Proteccion\obj\Release\Holistor.Proteccion.dll
+C:\Users\Leonardo.HOLISTOR\Projects\KEY_DEV\Holistor. KeyReader VS2017\Holistor.Proteccion\obj\Release\Holistor.Proteccion.pdb
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\Holistor.Proteccion\bin\Release\hkey-w32.dll
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\Holistor.Proteccion\bin\Release\Holistor.Proteccion.dll
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\Holistor.Proteccion\bin\Release\Holistor.Proteccion.pdb
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\Holistor.Proteccion\obj\Release\Holistor.Proteccion.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\Holistor.Proteccion\obj\Release\Holistor.Proteccion.dll
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\Holistor.Proteccion\obj\Release\Holistor.Proteccion.pdb

@@ -1,0 +1,82 @@
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\ConsolaCliente\bin\x86\Release\hkey-w32.dll
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\ConsolaCliente\bin\x86\Release\Config.xml
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\ConsolaCliente\bin\x86\Release\ConsolaCliente.exe
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\ConsolaCliente\bin\x86\Release\ConsolaCliente.pdb
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\ConsolaCliente\bin\x86\Release\Holistor.KeyReader.dll
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\ConsolaCliente\bin\x86\Release\Holistor.Proteccion.dll
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\ConsolaCliente\bin\x86\Release\Newtonsoft.Json.dll
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\ConsolaCliente\bin\x86\Release\Holistor.KeyReader.pdb
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\ConsolaCliente\bin\x86\Release\Holistor.Proteccion.pdb
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\ConsolaCliente\bin\x86\Release\Newtonsoft.Json.xml
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\ConsolaCliente\obj\x86\Release\ConsolaCliente.csprojAssemblyReference.cache
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\ConsolaCliente\obj\x86\Release\ConsolaCliente.csproj.CoreCompileInputs.cache
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\ConsolaCliente\obj\x86\Release\ConsolaCliente.csproj.CopyComplete
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\ConsolaCliente\obj\x86\Release\ConsolaCliente.exe
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\ConsolaCliente\obj\x86\Release\ConsolaCliente.pdb
+E:\DesarrolloSoft\_CD\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\hkey-w32.dll
+E:\DesarrolloSoft\_CD\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\Config.xml
+E:\DesarrolloSoft\_CD\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\ConsolaCliente.exe.config
+E:\DesarrolloSoft\_CD\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\ConsolaCliente.exe
+E:\DesarrolloSoft\_CD\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\ConsolaCliente.pdb
+E:\DesarrolloSoft\_CD\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\Holistor.KeyReader.dll
+E:\DesarrolloSoft\_CD\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\Holistor.Proteccion.dll
+E:\DesarrolloSoft\_CD\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\Newtonsoft.Json.dll
+E:\DesarrolloSoft\_CD\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\Holistor.KeyReader.pdb
+E:\DesarrolloSoft\_CD\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\Holistor.Proteccion.pdb
+E:\DesarrolloSoft\_CD\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\Newtonsoft.Json.xml
+E:\DesarrolloSoft\_CD\Holistor. KeyReader VS2017\ConsolaCliente\obj\x86\Release\ConsolaCliente.csprojAssemblyReference.cache
+E:\DesarrolloSoft\_CD\Holistor. KeyReader VS2017\ConsolaCliente\obj\x86\Release\ConsolaCliente.csproj.CoreCompileInputs.cache
+E:\DesarrolloSoft\_CD\Holistor. KeyReader VS2017\ConsolaCliente\obj\x86\Release\ConsolaCliente.csproj.CopyComplete
+E:\DesarrolloSoft\_CD\Holistor. KeyReader VS2017\ConsolaCliente\obj\x86\Release\ConsolaCliente.exe
+E:\DesarrolloSoft\_CD\Holistor. KeyReader VS2017\ConsolaCliente\obj\x86\Release\ConsolaCliente.pdb
+D:\Instalador\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\hkey-w32.dll
+D:\Instalador\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\Config.xml
+D:\Instalador\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\ConsolaCliente.exe.config
+D:\Instalador\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\ConsolaCliente.exe
+D:\Instalador\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\ConsolaCliente.pdb
+D:\Instalador\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\Holistor.KeyReader.dll
+D:\Instalador\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\RestSharp.dll
+D:\Instalador\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\Holistor.Proteccion.dll
+D:\Instalador\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\Newtonsoft.Json.dll
+D:\Instalador\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\Holistor.KeyReader.pdb
+D:\Instalador\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\Holistor.Proteccion.pdb
+D:\Instalador\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\Newtonsoft.Json.xml
+D:\Instalador\Holistor. KeyReader VS2017\ConsolaCliente\obj\x86\Release\ConsolaCliente.csprojAssemblyReference.cache
+D:\Instalador\Holistor. KeyReader VS2017\ConsolaCliente\obj\x86\Release\ConsolaCliente.csproj.CoreCompileInputs.cache
+D:\Instalador\Holistor. KeyReader VS2017\ConsolaCliente\obj\x86\Release\ConsolaCliente.csproj.CopyComplete
+D:\Instalador\Holistor. KeyReader VS2017\ConsolaCliente\obj\x86\Release\ConsolaCliente.exe
+D:\Instalador\Holistor. KeyReader VS2017\ConsolaCliente\obj\x86\Release\ConsolaCliente.pdb
+C:\Users\Leonardo.HOLISTOR\Projects\KEY_DEV\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\Config.xml
+C:\Users\Leonardo.HOLISTOR\Projects\KEY_DEV\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\ConsolaCliente.exe.config
+C:\Users\Leonardo.HOLISTOR\Projects\KEY_DEV\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\ConsolaCliente.exe
+C:\Users\Leonardo.HOLISTOR\Projects\KEY_DEV\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\ConsolaCliente.pdb
+C:\Users\Leonardo.HOLISTOR\Projects\KEY_DEV\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\Holistor.KeyReader.dll
+C:\Users\Leonardo.HOLISTOR\Projects\KEY_DEV\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\RestSharp.dll
+C:\Users\Leonardo.HOLISTOR\Projects\KEY_DEV\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\Holistor.Proteccion.dll
+C:\Users\Leonardo.HOLISTOR\Projects\KEY_DEV\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\Leonardo.HOLISTOR\Projects\KEY_DEV\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\Holistor.KeyReader.pdb
+C:\Users\Leonardo.HOLISTOR\Projects\KEY_DEV\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\Holistor.Proteccion.pdb
+C:\Users\Leonardo.HOLISTOR\Projects\KEY_DEV\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\Newtonsoft.Json.xml
+C:\Users\Leonardo.HOLISTOR\Projects\KEY_DEV\Holistor. KeyReader VS2017\ConsolaCliente\obj\x86\Release\ConsolaCliente.csprojAssemblyReference.cache
+C:\Users\Leonardo.HOLISTOR\Projects\KEY_DEV\Holistor. KeyReader VS2017\ConsolaCliente\obj\x86\Release\ConsolaCliente.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo.HOLISTOR\Projects\KEY_DEV\Holistor. KeyReader VS2017\ConsolaCliente\obj\x86\Release\ConsolaCliente.csproj.CopyComplete
+C:\Users\Leonardo.HOLISTOR\Projects\KEY_DEV\Holistor. KeyReader VS2017\ConsolaCliente\obj\x86\Release\ConsolaCliente.exe
+C:\Users\Leonardo.HOLISTOR\Projects\KEY_DEV\Holistor. KeyReader VS2017\ConsolaCliente\obj\x86\Release\ConsolaCliente.pdb
+C:\Users\Leonardo.HOLISTOR\Projects\KEY_DEV\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\hkey-w32.dll
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\hkey-w32.dll
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\Config.xml
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\ConsolaCliente.exe.config
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\ConsolaCliente.exe
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\ConsolaCliente.pdb
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\Holistor.KeyReader.dll
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\Holistor.Proteccion.dll
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\RestSharp.dll
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\Holistor.KeyReader.pdb
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\Holistor.Proteccion.pdb
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\ConsolaCliente\bin\x86\Release\Newtonsoft.Json.xml
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\ConsolaCliente\obj\x86\Release\ConsolaCliente.csprojAssemblyReference.cache
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\ConsolaCliente\obj\x86\Release\ConsolaCliente.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\ConsolaCliente\obj\x86\Release\ConsolaCliente.csproj.CopyComplete
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\ConsolaCliente\obj\x86\Release\ConsolaCliente.exe
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\ConsolaCliente\obj\x86\Release\ConsolaCliente.pdb

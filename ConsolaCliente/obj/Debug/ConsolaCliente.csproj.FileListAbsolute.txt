@@ -1,0 +1,13 @@
+E:\DesarrolloSoft\ASP.ZERO\Holistor. KeyReader\ConsolaCliente\bin\Debug\ConsolaCliente.exe
+E:\DesarrolloSoft\ASP.ZERO\Holistor. KeyReader\ConsolaCliente\bin\Debug\ConsolaCliente.pdb
+E:\DesarrolloSoft\ASP.ZERO\Holistor. KeyReader\ConsolaCliente\bin\Debug\Holistor.KeyReader.dll
+E:\DesarrolloSoft\ASP.ZERO\Holistor. KeyReader\ConsolaCliente\bin\Debug\Holistor.Proteccion.dll
+E:\DesarrolloSoft\ASP.ZERO\Holistor. KeyReader\ConsolaCliente\bin\Debug\Holistor.KeyReader.pdb
+E:\DesarrolloSoft\ASP.ZERO\Holistor. KeyReader\ConsolaCliente\bin\Debug\Holistor.Proteccion.pdb
+E:\DesarrolloSoft\ASP.ZERO\Holistor. KeyReader\ConsolaCliente\obj\Debug\ConsolaCliente.csprojAssemblyReference.cache
+E:\DesarrolloSoft\ASP.ZERO\Holistor. KeyReader\ConsolaCliente\obj\Debug\ConsolaCliente.csproj.CoreCompileInputs.cache
+E:\DesarrolloSoft\ASP.ZERO\Holistor. KeyReader\ConsolaCliente\obj\Debug\ConsolaCliente.csproj.CopyComplete
+E:\DesarrolloSoft\ASP.ZERO\Holistor. KeyReader\ConsolaCliente\obj\Debug\ConsolaCliente.exe
+E:\DesarrolloSoft\ASP.ZERO\Holistor. KeyReader\ConsolaCliente\obj\Debug\ConsolaCliente.pdb
+E:\DesarrolloSoft\ASP.ZERO\Holistor. KeyReader\ConsolaCliente\bin\Debug\Newtonsoft.Json.dll
+E:\DesarrolloSoft\ASP.ZERO\Holistor. KeyReader\ConsolaCliente\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,73 @@
+E:\DesarrolloSoft\ASP.ZERO\Holistor. KeyReader\Holistor. KeyReader\obj\Debug\Holistor. KeyReader.csprojAssemblyReference.cache
+E:\DesarrolloSoft\ASP.ZERO\Holistor. KeyReader\Holistor. KeyReader\obj\Debug\Holistor. KeyReader.csproj.CoreCompileInputs.cache
+E:\DesarrolloSoft\ASP.ZERO\Holistor. KeyReader\Holistor. KeyReader\bin\Debug\hkey-w32.dll
+E:\DesarrolloSoft\ASP.ZERO\Holistor. KeyReader\Holistor. KeyReader\bin\Debug\Holistor.KeyReader.dll
+E:\DesarrolloSoft\ASP.ZERO\Holistor. KeyReader\Holistor. KeyReader\bin\Debug\Holistor.KeyReader.pdb
+E:\DesarrolloSoft\ASP.ZERO\Holistor. KeyReader\Holistor. KeyReader\bin\Debug\Holistor.KeyReader.tlb
+E:\DesarrolloSoft\ASP.ZERO\Holistor. KeyReader\Holistor. KeyReader\bin\Debug\Holistor.Proteccion.dll
+E:\DesarrolloSoft\ASP.ZERO\Holistor. KeyReader\Holistor. KeyReader\bin\Debug\Newtonsoft.Json.dll
+E:\DesarrolloSoft\ASP.ZERO\Holistor. KeyReader\Holistor. KeyReader\bin\Debug\Holistor.Proteccion.pdb
+E:\DesarrolloSoft\ASP.ZERO\Holistor. KeyReader\Holistor. KeyReader\bin\Debug\Newtonsoft.Json.xml
+E:\DesarrolloSoft\ASP.ZERO\Holistor. KeyReader\Holistor. KeyReader\obj\Debug\Holistor. KeyReader.csproj.CopyComplete
+E:\DesarrolloSoft\ASP.ZERO\Holistor. KeyReader\Holistor. KeyReader\obj\Debug\Holistor.KeyReader.dll
+E:\DesarrolloSoft\ASP.ZERO\Holistor. KeyReader\Holistor. KeyReader\obj\Debug\Holistor.KeyReader.pdb
+E:\DesarrolloSoft\ASP.ZERO\Holistor. KeyReader\Holistor. KeyReader\bin\Debug\config.xml
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\Holistor. KeyReader\bin\Debug\hkey-w32.dll
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\Holistor. KeyReader\bin\Debug\Config.xml
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\Holistor. KeyReader\bin\Debug\Holistor.KeyReader.dll
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\Holistor. KeyReader\bin\Debug\Holistor.KeyReader.pdb
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\Holistor. KeyReader\bin\Debug\Holistor.KeyReader.tlb
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\Holistor. KeyReader\bin\Debug\Holistor.Proteccion.dll
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\Holistor. KeyReader\bin\Debug\Newtonsoft.Json.dll
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\Holistor. KeyReader\bin\Debug\Holistor.Proteccion.pdb
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\Holistor. KeyReader\bin\Debug\Newtonsoft.Json.xml
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\Holistor. KeyReader\obj\Debug\Holistor. KeyReader.csprojAssemblyReference.cache
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\Holistor. KeyReader\obj\Debug\Holistor. KeyReader.csproj.CoreCompileInputs.cache
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\Holistor. KeyReader\obj\Debug\Holistor. KeyReader.csproj.CopyComplete
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\Holistor. KeyReader\obj\Debug\Holistor.KeyReader.dll
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\Holistor. KeyReader\obj\Debug\Holistor.KeyReader.pdb
+E:\DesarrolloSoft\_CD\Holistor. KeyReader VS2017\Holistor. KeyReader\bin\Debug\hkey-w32.dll
+E:\DesarrolloSoft\_CD\Holistor. KeyReader VS2017\Holistor. KeyReader\bin\Debug\Config.xml
+E:\DesarrolloSoft\_CD\Holistor. KeyReader VS2017\Holistor. KeyReader\bin\Debug\Holistor.KeyReader.dll
+E:\DesarrolloSoft\_CD\Holistor. KeyReader VS2017\Holistor. KeyReader\bin\Debug\Holistor.KeyReader.pdb
+E:\DesarrolloSoft\_CD\Holistor. KeyReader VS2017\Holistor. KeyReader\bin\Debug\Holistor.KeyReader.tlb
+E:\DesarrolloSoft\_CD\Holistor. KeyReader VS2017\Holistor. KeyReader\bin\Debug\Holistor.Proteccion.dll
+E:\DesarrolloSoft\_CD\Holistor. KeyReader VS2017\Holistor. KeyReader\bin\Debug\Newtonsoft.Json.dll
+E:\DesarrolloSoft\_CD\Holistor. KeyReader VS2017\Holistor. KeyReader\bin\Debug\Holistor.Proteccion.pdb
+E:\DesarrolloSoft\_CD\Holistor. KeyReader VS2017\Holistor. KeyReader\bin\Debug\Newtonsoft.Json.xml
+E:\DesarrolloSoft\_CD\Holistor. KeyReader VS2017\Holistor. KeyReader\obj\Debug\Holistor. KeyReader.csprojAssemblyReference.cache
+E:\DesarrolloSoft\_CD\Holistor. KeyReader VS2017\Holistor. KeyReader\obj\Debug\Holistor. KeyReader.csproj.CoreCompileInputs.cache
+E:\DesarrolloSoft\_CD\Holistor. KeyReader VS2017\Holistor. KeyReader\obj\Debug\Holistor. KeyReader.csproj.CopyComplete
+E:\DesarrolloSoft\_CD\Holistor. KeyReader VS2017\Holistor. KeyReader\obj\Debug\Holistor.KeyReader.dll
+E:\DesarrolloSoft\_CD\Holistor. KeyReader VS2017\Holistor. KeyReader\obj\Debug\Holistor.KeyReader.pdb
+E:\DesarrolloSoft\_CD\Holistor. KeyReader VS2017\Holistor. KeyReader\bin\Debug\RestSharp.dll
+D:\Instalador\Holistor. KeyReader VS2017\Holistor. KeyReader\bin\Debug\hkey-w32.dll
+D:\Instalador\Holistor. KeyReader VS2017\Holistor. KeyReader\bin\Debug\Config.xml
+D:\Instalador\Holistor. KeyReader VS2017\Holistor. KeyReader\bin\Debug\Holistor.KeyReader.dll
+D:\Instalador\Holistor. KeyReader VS2017\Holistor. KeyReader\bin\Debug\Holistor.KeyReader.pdb
+D:\Instalador\Holistor. KeyReader VS2017\Holistor. KeyReader\bin\Debug\Holistor.KeyReader.tlb
+D:\Instalador\Holistor. KeyReader VS2017\Holistor. KeyReader\bin\Debug\Holistor.Proteccion.dll
+D:\Instalador\Holistor. KeyReader VS2017\Holistor. KeyReader\bin\Debug\Newtonsoft.Json.dll
+D:\Instalador\Holistor. KeyReader VS2017\Holistor. KeyReader\bin\Debug\RestSharp.dll
+D:\Instalador\Holistor. KeyReader VS2017\Holistor. KeyReader\bin\Debug\Holistor.Proteccion.pdb
+D:\Instalador\Holistor. KeyReader VS2017\Holistor. KeyReader\bin\Debug\Newtonsoft.Json.xml
+D:\Instalador\Holistor. KeyReader VS2017\Holistor. KeyReader\obj\Debug\Holistor. KeyReader.csprojAssemblyReference.cache
+D:\Instalador\Holistor. KeyReader VS2017\Holistor. KeyReader\obj\Debug\Holistor. KeyReader.csproj.CoreCompileInputs.cache
+D:\Instalador\Holistor. KeyReader VS2017\Holistor. KeyReader\obj\Debug\Holistor. KeyReader.csproj.CopyComplete
+D:\Instalador\Holistor. KeyReader VS2017\Holistor. KeyReader\obj\Debug\Holistor.KeyReader.dll
+D:\Instalador\Holistor. KeyReader VS2017\Holistor. KeyReader\obj\Debug\Holistor.KeyReader.pdb
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\Holistor. KeyReader\bin\Debug\hkey-w32.dll
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\Holistor. KeyReader\bin\Debug\Config.xml
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\Holistor. KeyReader\bin\Debug\Holistor.KeyReader.dll
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\Holistor. KeyReader\bin\Debug\Holistor.KeyReader.pdb
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\Holistor. KeyReader\bin\Debug\Holistor.KeyReader.tlb
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\Holistor. KeyReader\bin\Debug\Holistor.Proteccion.dll
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\Holistor. KeyReader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\Holistor. KeyReader\bin\Debug\RestSharp.dll
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\Holistor. KeyReader\bin\Debug\Holistor.Proteccion.pdb
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\Holistor. KeyReader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\Holistor. KeyReader\obj\Debug\Holistor. KeyReader.csprojAssemblyReference.cache
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\Holistor. KeyReader\obj\Debug\Holistor. KeyReader.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\Holistor. KeyReader\obj\Debug\Holistor. KeyReader.csproj.CopyComplete
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\Holistor. KeyReader\obj\Debug\Holistor.KeyReader.dll
+C:\Users\Leonardo.HOLISTOR\Projects\GC_PY_0372 Llave Digital\KEY_DEV\Holistor. KeyReader VS2017\Holistor. KeyReader\obj\Debug\Holistor.KeyReader.pdb

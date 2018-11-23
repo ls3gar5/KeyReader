@@ -1,0 +1,13 @@
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\Holistor. KeyReader\bin\Release\hkey-w32.dll
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\Holistor. KeyReader\bin\Release\Config.xml
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\Holistor. KeyReader\bin\Release\Holistor.KeyReader.dll
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\Holistor. KeyReader\bin\Release\Holistor.KeyReader.pdb
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\Holistor. KeyReader\bin\Release\Holistor.Proteccion.dll
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\Holistor. KeyReader\bin\Release\Newtonsoft.Json.dll
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\Holistor. KeyReader\bin\Release\Holistor.Proteccion.pdb
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\Holistor. KeyReader\bin\Release\Newtonsoft.Json.xml
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\Holistor. KeyReader\obj\Release\Holistor. KeyReader.csprojAssemblyReference.cache
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\Holistor. KeyReader\obj\Release\Holistor. KeyReader.csproj.CoreCompileInputs.cache
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\Holistor. KeyReader\obj\Release\Holistor. KeyReader.csproj.CopyComplete
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\Holistor. KeyReader\obj\Release\Holistor.KeyReader.dll
+E:\DesarrolloSoft\_CD\Holistor. KeyReader\Holistor. KeyReader\obj\Release\Holistor.KeyReader.pdb
